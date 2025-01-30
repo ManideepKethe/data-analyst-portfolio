@@ -1,7 +1,7 @@
 # 🛒 Vrindha Store Sales Analysis (2023) - Excel Project  
 **Objective**: Analyze sales data to identify trends in orders, demographics, and sales channels.  
 
-![Dashboard Preview](./Screenshots/Dashboard.png)  
+![Dashboard Preview](./ScreenShots/Dashboard.png)  
 
 ---
 
@@ -54,7 +54,7 @@ This project analyzes Vrindha Store's 2023 sales data to derive actionable insig
 ## 📸 **Screenshots**  
 | Dashboard View |  
 |----------------|
-| ![Dashboard](./Screenshots/Dashboard.png) |  
+| ![Dashboard](./ScreenShots/Dashboard.png) |  
 
 ---
 
@@ -82,8 +82,8 @@ This project analyzes Vrindha Store's 2023 sales data to derive actionable insig
 ---
 
 ## 📬 **Contact**  
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/manideepkethe)  
-- **Email**: [your.email@domain.com](mailto:manideepkethe@gmail.com)  
+- **LinkedIn**: [Manideep Kethe](https://linkedin.com/in/manideepkethe)  
+- **Email**: [manideepkethe@gmail.com](mailto:manideepkethe@gmail.com)  
 - **Portfolio**: [GitHub Portfolio](https://github.com/ManideepKethe/data-analyst-portfolio)  
 
 ---
