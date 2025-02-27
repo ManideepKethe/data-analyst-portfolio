@@ -24,25 +24,29 @@ A portfolio showcasing data analysis, engineering projects, and technical skills
   - Women contributed **34.59%** of orders.  
 **Repo**: [Vrindha-Store-Sales-Analysis](./Projects/Vrindha-Store-Sales-Analysis)  
 
-### 2. [SQL Project Title]  
-**Goal**: [Brief description].  
+### 2. Namma Yatri Rides Analysis  
+**Goal**: Explore ride data to identify trends, peak demand periods, and optimize operational performance.  
 **Skills**: Query Optimization, ETL Pipelines.  
 **Tools**: MySQL, PostgreSQL.  
 
-### 3. [Python Project Title]  
-**Goal**: [Brief description].  
+### 3. Uber Rides Cancellation Analysis  
+**Goal**: Analyze ride cancellations focusing on airport vs. city pickups to improve service efficiency.  
 **Skills**: Data Cleaning, API Integration.  
-**Tools**: Pandas, Jupyter Notebook.  
+**Tools**: Pandas, Jupyter Notebook.
+
 
 ---
 
-## 📚 **Certifications**  
-- [AWS Certified Cloud Practitioner]()  
-- [Google Data Analytics Professional Certificate]()  
+## 📚 **Certifications**
+- Microsoft Certified: Power BI Data Analyst Associate
+- Oracle Database SQL Certified Associate
+- Oracle Cloud Infrastructure 2024 Certified Foundations Associate
+- Oracle Cloud Infrastructure 2024 AI Certified Foundations Associate
+- Microsoft Certified: Azure Data Fundamentals
+- Microsoft Certified: Azure Fundamentals
 
 ---
 
 ## 📞 **Contact**  
-- LinkedIn: [Your Profile]()  
-- Email: [your.email@domain.com]()  
-- Resume: [Download Here](./Resume/Your-Resume.pdf)  
+- LinkedIn: [www.linkedin.com/in/manideepkethe]()  
+- Email: [manideepkethe@gmail.com]()  
