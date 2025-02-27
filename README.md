@@ -1,8 +1,6 @@
 # data-analyst-portfolio
 A portfolio showcasing data analysis, engineering projects, and technical skills (SQL, Python, Hadoop, Power BI, Spark, AWS)
 
-# 👋 Hi, I'm Manideep Kethe  
-**Aspiring Data Analyst/Engineer** | Transitioning from IT Support | 1.10 Years of Experience  
 
 ## 🚀 **Technical Skills**  
 - **Databases**: SQL, Hive  
