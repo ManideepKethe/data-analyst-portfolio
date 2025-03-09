@@ -1,7 +1,6 @@
 # data-analyst-portfolio
 A portfolio showcasing data analysis, engineering projects, and technical skills (SQL, Python, Hadoop, Power BI, Spark, AWS)
 
-
 ## 🚀 **Technical Skills**  
 - **Databases**: SQL, Hive  
 - **Big Data**: Hadoop, Spark (Theoretical Knowledge)  
@@ -30,18 +29,26 @@ A portfolio showcasing data analysis, engineering projects, and technical skills
 ### 3. Uber Rides Cancellation Analysis  
 **Goal**: Analyze ride cancellations focusing on airport vs. city pickups to improve service efficiency.  
 **Skills**: Data Cleaning, API Integration.  
-**Tools**: Pandas, Jupyter Notebook.
+**Tools**: Pandas, Jupyter Notebook.  
 
+### 4. Hospital Admissions Dashboard (Power BI)  
+**Goal**: Analyze hospital admission data to identify trends in patient demographics, specialties, and wait times.  
+**Skills**: Data Cleaning, DAX, Power Query, Visualization.  
+**Key Insights**:  
+  - High admission rates in **General Medicine & Paediatrics**.  
+  - Longest wait times in **Orthodontics & Geriatric Medicine**.  
+  - **Blood Transfusion** has nearly 100% emergency admissions.  
+**Repo**: [Hospital-Admissions-Dashboard](./Projects/Hospital-Admissions-Dashboard)  
 
 ---
 
-## 📚 **Certifications**
-- Microsoft Certified: Power BI Data Analyst Associate
-- Oracle Database SQL Certified Associate
-- Oracle Cloud Infrastructure 2024 Certified Foundations Associate
-- Oracle Cloud Infrastructure 2024 AI Certified Foundations Associate
-- Microsoft Certified: Azure Data Fundamentals
-- Microsoft Certified: Azure Fundamentals
+## 📚 **Certifications**  
+- Microsoft Certified: Power BI Data Analyst Associate  
+- Oracle Database SQL Certified Associate  
+- Oracle Cloud Infrastructure 2024 Certified Foundations Associate  
+- Oracle Cloud Infrastructure 2024 AI Certified Foundations Associate  
+- Microsoft Certified: Azure Data Fundamentals  
+- Microsoft Certified: Azure Fundamentals  
 
 ---
 
