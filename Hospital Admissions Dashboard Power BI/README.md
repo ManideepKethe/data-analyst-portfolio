@@ -7,7 +7,7 @@ The **Hospital Admission Dashboard** is a Power BI visualization tool designed t
 The data used for this dashboard comes from the provided CSV file: **Main Specialty Edited (hosp-epis-stat-admi-main-spec-2019-20-tab)_Main Specialty Edited.csv**. It includes hospital admission statistics categorized by specialty, gender, type of admission, and patient demographics.
 
 ## Dashboard Preview
-![Hospital Admission Dashboard](dashboard.png)
+![Hospital Admission Dashboard](Dashboard.png)
 
 ## Key Metrics & Visuals
 ### Summary Cards:
@@ -56,13 +56,6 @@ The data used for this dashboard comes from the provided CSV file: **Main Specia
 - Enhance interactivity with additional drill-through pages.
 - Integrate real-time data sources for live monitoring.
 - Add predictive analytics for forecasting patient admissions and wait times.
-
-## Files Included
-- **Hospital_Admissions_Dashboard.pbix** - The Power BI dashboard file.
-- **Dashboard.png** - An image preview of the dashboard.
-
-## Author
-This Power BI dashboard was created by [Your Name]. Feel free to reach out for any modifications or enhancements!
 
 ---
 
