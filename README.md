@@ -19,7 +19,6 @@ A portfolio showcasing data analysis, engineering projects, and technical skills
   - Peak sales in **January** (2,000M orders).  
   - **Amazon** drove 35% of total sales.  
   - Women contributed **34.59%** of orders.  
-**Repo**: [Vrindha-Store-Sales-Analysis](./Projects/Vrindha-Store-Sales-Analysis)  
 
 ### 2. Namma Yatri Rides Analysis  
 **Goal**: Explore ride data to identify trends, peak demand periods, and optimize operational performance.  
@@ -38,7 +37,6 @@ A portfolio showcasing data analysis, engineering projects, and technical skills
   - High admission rates in **General Medicine & Paediatrics**.  
   - Longest wait times in **Orthodontics & Geriatric Medicine**.  
   - **Blood Transfusion** has nearly 100% emergency admissions.  
-**Repo**: [Hospital-Admissions-Dashboard](./Projects/Hospital Admissions Dashboard Power BI)  
 
 ---
 
