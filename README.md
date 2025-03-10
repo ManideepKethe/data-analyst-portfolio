@@ -38,7 +38,7 @@ A portfolio showcasing data analysis, engineering projects, and technical skills
   - High admission rates in **General Medicine & Paediatrics**.  
   - Longest wait times in **Orthodontics & Geriatric Medicine**.  
   - **Blood Transfusion** has nearly 100% emergency admissions.  
-**Repo**: [Hospital-Admissions-Dashboard](./Projects/Hospital-Admissions-Dashboard)  
+**Repo**: [Hospital-Admissions-Dashboard](./Projects/Hospital Admissions Dashboard Power BI)  
 
 ---
 
